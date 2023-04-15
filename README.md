@@ -1,0 +1,1 @@
+# Adaptive-Mail-A-flexible-Email-client-app
